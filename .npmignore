@@ -1,0 +1,24 @@
+# Development files
+example/
+__tests__/
+.github/
+.eslintrc.js
+.prettierrc
+tsconfig.json
+tsconfig.build.json
+babel.config.js
+jest.config.js
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
