@@ -10,6 +10,13 @@
 
 **A modern, highly customizable React Native calendar component.**
 
+<br />
+<p align="center">
+  <img src="./assets/light-mode.png" alt="Light Mode" width="280" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/dark-mode.png" alt="Dark Mode" width="280" />
+</p>
+
 </div>
 
 ---
