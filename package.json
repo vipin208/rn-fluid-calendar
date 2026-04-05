@@ -1,6 +1,6 @@
 {
   "name": "rn-fluid-calendar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A modern, highly customizable React Native calendar with dark/light mode, 5 animation types, flexible marking, and full developer control over styles, fonts, and layout.",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
